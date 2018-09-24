@@ -1,0 +1,19 @@
+{
+  "name": "js-zacatky",
+  "version": "1.0.0",
+  "description": "Firts app with JS and ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesekvi1/JS-zacatky.git"
+  },
+  "author": "Viktor Pesek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pesekvi1/JS-zacatky/issues"
+  },
+  "homepage": "https://github.com/pesekvi1/JS-zacatky#readme"
+}
